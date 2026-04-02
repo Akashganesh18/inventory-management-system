@@ -1,0 +1,137 @@
+[
+  {
+    "_id": "17750499650331",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 50000,
+    "quantity": 10,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.033Z"
+  },
+  {
+    "_id": "17750499650382",
+    "name": "Phone",
+    "category": "Electronics",
+    "price": 20000,
+    "quantity": 3,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650383",
+    "name": "Headphones",
+    "category": "Electronics",
+    "price": 2000,
+    "quantity": 15,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650384",
+    "name": "Keyboard",
+    "category": "Electronics",
+    "price": 1000,
+    "quantity": 1,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650385",
+    "name": "Mouse",
+    "category": "Electronics",
+    "price": 500,
+    "quantity": 20,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650386",
+    "name": "Chair",
+    "category": "Furniture",
+    "price": 7000,
+    "quantity": 2,
+    "minStock": 3,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650387",
+    "name": "Table",
+    "category": "Furniture",
+    "price": 10000,
+    "quantity": 4,
+    "minStock": 2,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650388",
+    "name": "Bag",
+    "category": "Accessories",
+    "price": 1500,
+    "quantity": 25,
+    "minStock": 10,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650389",
+    "name": "Watch",
+    "category": "Accessories",
+    "price": 3000,
+    "quantity": 8,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "17750499650380",
+    "name": "Shoes",
+    "category": "Fashion",
+    "price": 4000,
+    "quantity": 6,
+    "minStock": 5,
+    "createdAt": "2026-04-01T13:26:05.038Z"
+  },
+  {
+    "_id": "1775050392588",
+    "name": "Carrot ",
+    "category": "Vegetables",
+    "price": 100,
+    "quantity": 200,
+    "minStock": 20,
+    "createdAt": "2026-04-01T13:33:12.588Z"
+  },
+  {
+    "_id": "1775053139365",
+    "name": "beans ",
+    "category": "Vegetables",
+    "price": 20,
+    "quantity": 200,
+    "minStock": 30,
+    "createdAt": "2026-04-01T14:18:59.403Z"
+  },
+  {
+    "_id": "1775059372446",
+    "name": "beetroot",
+    "category": "Vegetables",
+    "price": 50,
+    "quantity": 100,
+    "minStock": 50,
+    "createdAt": "2026-04-01T16:02:52.446Z"
+  },
+  {
+    "_id": "1775100444239",
+    "name": "Apple ",
+    "category": "Fruits",
+    "price": 300,
+    "quantity": 1000,
+    "minStock": 100,
+    "createdAt": "2026-04-02T03:27:24.239Z"
+  },
+  {
+    "_id": "1775100713787",
+    "name": "Orange",
+    "category": "Fruits",
+    "price": 30,
+    "quantity": 1000,
+    "minStock": 200,
+    "createdAt": "2026-04-02T03:31:53.787Z"
+  }
+]
