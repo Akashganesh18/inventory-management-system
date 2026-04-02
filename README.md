@@ -69,6 +69,8 @@ For the backend to function correctly, you must create a `.env` file in the `bac
 MONGO_URI=your_mongodb_connection_string
 PORT=5000
 ```
+MONGO_URI=mongodb://127.0.0.1:27017/inventory_db
+PORT=5000
 
 ## Assumptions Made
 
